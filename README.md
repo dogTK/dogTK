@@ -15,7 +15,7 @@
 
 ## Overview
 
-* Data Engineer at [Creative Survey Inc.](https://jp.creativesurvey.com/) (2022/7~) 
+* Data Engineer 
 * Bioinfomatician 
   * Single Cell & Bulk Transcriptome Analysis
   * Whole Genome Sequencing
