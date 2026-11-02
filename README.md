@@ -1,72 +1,63 @@
 <!-- badge: https://shields.io/ -->
-<!-- logo: https://simpleicons.org/ -->
+<!-- logo: https://simpleicons.org/ （ロゴが消えたブランドは logo なしで表示） -->
 
+## Tatsuya Koreeda
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dogTK&count_private=true&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogTK&theme=transparent&count_private=true"/>
-</a> 
+Bioinformatician & Data Engineer based in Kobe, Japan.
+Snowflake Data Superhero 2026.
 
-</div>
-<br clear="left"/> <!-- これにより画像の後に続く要素が下に配置される -->
-
-## Overview
-
-* Data Engineer 
-* Bioinfomatician 
+* Data Engineering on Snowflake (IaC with Terraform / Terragrunt, dbt, Snowpark Container Services)
+* Bioinformatics
   * Single Cell & Bulk Transcriptome Analysis
   * Whole Genome Sequencing
+  * Multi-omics / Glycobiology on the cloud
+* Community: SnowVillage, Snowflake HCLS User Group
 
+## Featured
+
+* [lincs_glyco_data_availability](https://github.com/dogTK/lincs_glyco_data_availability) - Glycosylation-related gene expression in the LINCS L1000 chemical perturbation dataset
+* [snowflake-multiomics-handson](https://github.com/dogTK/snowflake-multiomics-handson) - Snowflake hands-on for multi-omics data engineering (RDKit / py3Dmol on Notebooks)
+* [nf-snowflake](https://github.com/dogTK/nf-snowflake) - Nextflow × Snowflake
+* [bioinfo-lecture](https://github.com/dogTK/bioinfo-lecture) - Lecture materials for bioinformatics
 
 ## Skills
 
-### Programming Language / Frameworks
+### Languages / Frameworks
 
-![R](https://img.shields.io/badge/R-0?style=flat-square&logo=r&color=276DC3&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-0?style=flat-square&logo=python&color=3776AB&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-0?style=flat-square&logo=Terraform&color=7B42BC&logoColor=white) 
-![dbt](https://img.shields.io/badge/dbt-0?style=flat-square&logo=dbt&color=FF694B&logoColor=white) \
-![Ruby](https://img.shields.io/badge/Ruby-0?style=flat-square&logo=ruby&color=CC342D&logoColor=white) 
-![Ruby on Rails](https://img.shields.io/badge/RubyonRails-0?style=flat-square&logo=RubyonRails&color=D30001&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-0?style=flat-square&logo=python&color=3776AB&logoColor=white)
+![R](https://img.shields.io/badge/R-0?style=flat-square&logo=r&color=276DC3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0?style=flat-square&color=4479A1&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-0?style=flat-square&logo=terraform&color=7B42BC&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-0?style=flat-square&color=FF694B&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-0?style=flat-square&logo=nextflow&color=0DC09D&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-0?style=flat-square&logo=streamlit&color=FF4B4B&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0?style=flat-square&logo=jupyter&color=F37626&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-0?style=flat-square&logo=ruby&color=CC342D&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-0?style=flat-square&logo=rubyonrails&color=D30001&logoColor=white)
 
-### Database
+### Data Platform / Database
 
-![snowflake](https://img.shields.io/badge/snowflake-0?style=flat-square&logo=snowflake&color=29B5E8&logoColor=white) 
-![mysql](https://img.shields.io/badge/Mysql-0?style=flat-square&logo=mysql&color=4479A1&logoColor=white) 
-
+![Snowflake](https://img.shields.io/badge/Snowflake-0?style=flat-square&logo=snowflake&color=29B5E8&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-0?style=flat-square&logo=neo4j&color=4581C3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0?style=flat-square&logo=mysql&color=4479A1&logoColor=white)
 
 ### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-0?style=flat-square&logo=amazonaws&color=232F3E&logoColor=white) : 
-![Fargate](https://img.shields.io/badge/Fargate-0?style=flat-square&logo=awsfargate&color=FF9900&logoColor=white) 
-![ECS](https://img.shields.io/badge/ECS-0?style=flat-square&logo=amazonecs&color=FF9900&logoColor=white) 
-![RDS](https://img.shields.io/badge/RDS-0?style=flat-square&logo=amazonrds&color=527FFF&logoColor=white) 
-<!-- ![GCP](https://img.shields.io/badge/GCP-0?style=flat-square&logo=googlecloud&color=4285F4&logoColor=white): BigQuery, CloudRun, GCS, dataform, etc \
-![Azure](https://img.shields.io/badge/Azure-0?style=flat-square&logo=microsoftazure&color=29B5E8&logoColor=white):  -->
+![AWS](https://img.shields.io/badge/AWS-0?style=flat-square&color=232F3E&logoColor=white)
+![ECS / Fargate](https://img.shields.io/badge/ECS_/_Fargate-0?style=flat-square&color=FF9900&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-0?style=flat-square&color=527FFF&logoColor=white)
 
-### Monitoring
+### Tools
 
-![datadog](https://img.shields.io/badge/Datadog-0?style=flat-square&logo=datadog&color=632CA6&logoColor=white)
-![NewRelic](https://img.shields.io/badge/NewRelic-0?style=flat-square&logo=newrelic&color=1CE783&logoColor=white)
-
-
-### Tool
-![Docker](https://img.shields.io/badge/Docker-0?style=flat-square&logo=docker&color=00A1E0&logoColor=white)
-![GithubActions](https://img.shields.io/badge/GithubActions-0?style=flat-square&logo=githubactions&color=2088FF&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-0?style=flat-square&logo=salesforce&color=00A1E0&logoColor=white)
-![googleanalytics](https://img.shields.io/badge/GoogleAnalytics-0?style=flat-square&logo=googleanalytics&color=E37400&logoColor=white)
-![slack](https://img.shields.io/badge/Slack-0?style=flat-square&logo=slack&color=4A154B&logoColor=white)
-![notion](https://img.shields.io/badge/notion-0?style=flat-square&logo=notion&color=FFFFFF&logoColor=black)
-
-
-
-
+![Docker](https://img.shields.io/badge/Docker-0?style=flat-square&logo=docker&color=2496ED&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0?style=flat-square&logo=githubactions&color=2088FF&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0?style=flat-square&logo=claude&color=D97757&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-0?style=flat-square&logo=datadog&color=632CA6&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-0?style=flat-square&logo=newrelic&color=1CE783&logoColor=white)
 
 ## Links
 
-[![Twitter](https://img.shields.io/badge/Twitter-0?style=flat-square&logo=twitter&color=1DA1F2&logoColor=white)]( https://twitter.com/cs_dev_engineer )
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0?style=flat-square&logo=linkedin&color=0A66C2&logoColor=white)]( https://www.linkedin.com/in/tkoreeda )
-[![Zenn](https://img.shields.io/badge/Zenn-0?style=flat-square&logo=zenn&color=3EA8FF&logoColor=white)]( https://zenn.dev/t_koreeda )
+[![X](https://img.shields.io/badge/X-0?style=flat-square&logo=x&color=000000&logoColor=white)](https://x.com/cs_dev_engineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0?style=flat-square&color=0A66C2&logoColor=white)](https://www.linkedin.com/in/tkoreeda)
+[![Zenn](https://img.shields.io/badge/Zenn-0?style=flat-square&logo=zenn&color=3EA8FF&logoColor=white)](https://zenn.dev/t_koreeda)
+[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat-square&logo=speakerdeck&color=009287&logoColor=white)](https://speakerdeck.com/ktatsuya)
