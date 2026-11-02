@@ -15,9 +15,7 @@ Snowflake Data Superhero 2026.
 
 ## Featured
 
-* [lincs_glyco_data_availability](https://github.com/dogTK/lincs_glyco_data_availability) - Glycosylation-related gene expression in the LINCS L1000 chemical perturbation dataset
 * [snowflake-multiomics-handson](https://github.com/dogTK/snowflake-multiomics-handson) - Snowflake hands-on for multi-omics data engineering (RDKit / py3Dmol on Notebooks)
-* [nf-snowflake](https://github.com/dogTK/nf-snowflake) - Nextflow × Snowflake
 * [bioinfo-lecture](https://github.com/dogTK/bioinfo-lecture) - Lecture materials for bioinformatics
 
 ## Skills
